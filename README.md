@@ -10,10 +10,10 @@ Knowledge Base dengan 5 jenis kerusakan
   - Kerusakan Harddisk
 
 
- Mesin inferensi berbasis aturan (dictionary) – tanpa rantai if-else panjang
- Menampilkan semua kemungkinan kerusakan - jika lebih dari satu yang cocok
- Tingkat kecocokan dalam persen - untuk hasil yang tidak sempurna
- Penanganan kasus tanpa kecocokan – sistem memberi tahu jika tidak dapat mendiagnosa
- Antarmuka GUI sederhana - menggunakan Tkinter
- Reset otomatis - setelah diagnosa selesai
+ *Mesin inferensi berbasis aturan (dictionary) – tanpa rantai if-else panjang
+ *Menampilkan semua kemungkinan kerusakan - jika lebih dari satu yang cocok
+ *Tingkat kecocokan dalam persen - untuk hasil yang tidak sempurna
+ *Penanganan kasus tanpa kecocokan – sistem memberi tahu jika tidak dapat mendiagnosa
+ *Antarmuka GUI sederhana - menggunakan Tkinter
+ *Reset otomatis - setelah diagnosa selesai
 
